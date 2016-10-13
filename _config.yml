@@ -1,2 +1,4 @@
 name: Zabbal
 markdown: kramdown
+gems:
+ - jekyll-feed
